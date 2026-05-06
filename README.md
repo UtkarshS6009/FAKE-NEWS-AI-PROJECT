@@ -55,6 +55,8 @@ FAKE-NEWS-AI-PROJECT/
 
 📊 Dataset
 
+Dataset link : https://www.kaggle.com/datasets/clmentbisaillon/fake-and-real-news-dataset
+
 The model is trained on the:
 
 Fake and Real News Dataset (Kaggle)
